@@ -74,3 +74,8 @@ namespace WindowsFormsApp8
         }
     }
 }
+//Ejercicio propuesto(10.12)
+//Crear Aplicación de un formulario con una combo y un dataGridView.
+//La combo cargará todos los proveedores(TABLA : Suppliers)(CAMPOS : SupplierID y CompanyName).
+//Con el valor seleccionado se cargará un dataGridView con todos los productos de ese proveedor(TABLA: Products)
+//    (CAMPOS: ProductName,QuantityPerUnit,UnitPrice y UnitsInStock)
